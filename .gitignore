@@ -1,0 +1,13 @@
+config.py
+
+
+**/*.pyc
+*.ipynb
+
+.idea
+Database
+Dataset
+__pycache__
+exports
+cache
+
